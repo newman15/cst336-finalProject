@@ -1,5 +1,6 @@
 # Sporting Goods Shopping Application
-Final Group Project - Shopping cart utilizing the Walmart API, Node.js, Express, EJS, JawsDB MySQL, javaScript Sessions
+* Final Group Project - Shopping cart utilizing the Walmart API, Node.js, Express, EJS, JawsDB MySQL, javaScript Sessions
+* Link: https://aane20-finalproject.herokuapp.com/
 
 ## Project Set Up
 * $ npm init
