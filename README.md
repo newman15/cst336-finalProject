@@ -1,4 +1,4 @@
-# cst336-finalProject
+# Sporting Goods Shopping Application
 Final Group Project - Shopping cart utilizing the Walmart API, Node.js, Express, EJS, JawsDB MySQL, javaScript Sessions
 
 ## Project Set Up
